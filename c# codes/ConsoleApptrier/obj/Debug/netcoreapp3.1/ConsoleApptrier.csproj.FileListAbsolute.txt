@@ -1,0 +1,13 @@
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\bin\Debug\netcoreapp3.1\ConsoleApptrier.exe
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\bin\Debug\netcoreapp3.1\ConsoleApptrier.deps.json
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\bin\Debug\netcoreapp3.1\ConsoleApptrier.runtimeconfig.json
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\bin\Debug\netcoreapp3.1\ConsoleApptrier.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\bin\Debug\netcoreapp3.1\ConsoleApptrier.dll
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\bin\Debug\netcoreapp3.1\ConsoleApptrier.pdb
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\obj\Debug\netcoreapp3.1\ConsoleApptrier.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\obj\Debug\netcoreapp3.1\ConsoleApptrier.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\obj\Debug\netcoreapp3.1\ConsoleApptrier.AssemblyInfo.cs
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\obj\Debug\netcoreapp3.1\ConsoleApptrier.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\obj\Debug\netcoreapp3.1\ConsoleApptrier.dll
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\obj\Debug\netcoreapp3.1\ConsoleApptrier.pdb
+C:\Users\Simon\Desktop\C Primer Plus work\c# codes\ConsoleApptrier\obj\Debug\netcoreapp3.1\ConsoleApptrier.genruntimeconfig.cache
