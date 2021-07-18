@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstring>
-#define N 100
+#define N 1000
 using namespace std;
  
 void permutation(char* a, int k, int m)
